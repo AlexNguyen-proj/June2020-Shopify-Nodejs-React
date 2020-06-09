@@ -2,24 +2,24 @@ Full documentations can be found at https://shopify.dev/tutorials/build-a-shopif
 
 
 1. Npm install
-    a. react react-dom next
-    b. ngrok -g
-    c. koa 
-    d. @shopify/koa-shopify-auth 
-    e. dotenv 
-    f. koa-session 
-    g. isomorphic-fetch
-    h. @zeit/next-css 
-    i. @shopify/polaris
-    j. @shopify/app-bridge-react 
-    k. js-cookie
-    l. graphql 
-    m. apollo-boost 
-    n. react-apollo
-    o. @shopify/koa-shopify-graphql-proxy
-    p. store-js
-    q. @shopify/koa-shopify-webhooks 
-    r. koa-router
+    * react react-dom next
+    * ngrok -g
+    * koa 
+    * @shopify/koa-shopify-auth 
+    * dotenv 
+    * koa-session 
+    * isomorphic-fetch
+    * @zeit/next-css 
+    * @shopify/polaris
+    * @shopify/app-bridge-react 
+    * js-cookie
+    * graphql 
+    * apollo-boost 
+    * react-apollo
+    * @shopify/koa-shopify-graphql-proxy
+    * store-js
+    * @shopify/koa-shopify-webhooks 
+    * koa-router
 
 2. npm run dev
 
